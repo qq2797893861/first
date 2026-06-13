@@ -1,0 +1,12 @@
+{
+  "name": "campus-exchange-server",
+  "version": "1.0.0",
+  "description": "校园闲置好物交换站 - 服务器端部署",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
